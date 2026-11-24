@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Advanced Android Application</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="exit_message">Press back again to exit</string>
+    <string name="mode_title">Mode</string>
+    <string name="set_mode">Set Mode</string>
+    <string name="light">Light</string>
+    <string name="night">Night</string>
+    <string name="system">System</string>
+    <string name="first">First</string>
+    <string name="second">Second</string>
+    <string name="third">Third</string>
+</resources>
